@@ -1,0 +1,27 @@
+﻿1. Tìm từ có nhiều ký tự nhất trong chuỗi. Nếu có 2 hoặc nhiều từ cùng độ dài thì lấy từ đầu tiên (Bỏ qua dấu chấm và dấu cách).
+2. Thay thế mọi ký tự trong chuỗi bằng chữ cái ngay sau nó trong bảng chữ cái (ví dụ c->d). Sau đó viết hoa mọi nguyên âm trong chuỗi mới
+(a, e, i, o, u) rồi trả về chuỗi đã sửa đổi
+3. Viết một hàm chấp nhận một mảng 10 số nguyên (từ 0 đến 9), trả về một chuỗi các số đó ở dạng số điện thoại
+ví dụ: 0868948925 -> (086) 894-8925
+4. Cho chuỗi: L#i#nh. Đổi chuỗi thành Linh.
+5. In ra ký tự xuất hiện nhiều nhất trong chuỗi. Nếu các ký tự xuất hiện bằng nhau thì in ra No most popular.
+6. In ra số lớn nhất trong chuỗi nhập vào. Ví dụ: ab3cd354d25 => Output: 354
+7. In ra số lượng các nguyên âm xuất hiện trong chuỗi.
+8. In ra các số theo đúng định dạng sau:
+	1 == "1"
+
+	5000 == "1,000"
+
+	200.5248 == "200.525"
+
+	-1 == "-1"
+
+	-2000000.524 == "-2,000,000.123"
+9. Cho 2 mảng:
+	arr1 = array('l', 'i', 'n', 'h');
+	arr2 = array(1, 2, 3, 4);
+Hãy đổi chỗ và đảo ngược mảng
+=> Output: arr1 = array(4, 3, 2, 1);
+	   arr2 = array('h', 'n', 'i', 'l');
+10. In ra chuỗi có các nguyên âm bị đảo ngược còn phụ âm giữ nguyên vị trí. Ví dụ: Hello -> Holle
+
